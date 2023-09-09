@@ -1,5 +1,5 @@
 # Aposta-Loteria_C
-Este repositório abriga um programa em linguagem C para uma experiência de loteria simples. O programa permite que os usuários façam uma aposta de seis números e, em seguida, gera aleatoriamente seis números para uma loteria fictícia. Após o sorteio, o programa verifica quantos números da aposta do usuário correspondem aos números sorteados e exibe os acertos.  👍❤️
+Este repositório abriga um programa em linguagem C para uma experiência de loteria simples. O programa permite que os usuários façam uma aposta de seis números e, em seguida, gera aleatoriamente seis números para uma loteria fictícia. Após o sorteio, o programa verifica quantos números da aposta do usuário correspondem aos números sorteados e exibe os acertos.  
 
 *Funcionalidades Principais:*
 - Geração Aleatória: O programa gera aleatoriamente seis números para a loteria e garante que não haja repetições.
